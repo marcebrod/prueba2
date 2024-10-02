@@ -6,3 +6,5 @@ penguins %>%
   geom_histogram()
 
 #Hola que tal 
+
+# prueba 2
